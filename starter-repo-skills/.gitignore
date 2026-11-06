@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.DS_Store
+
+# LexiLoom local credentials (do not commit)
+.lexiloom.env

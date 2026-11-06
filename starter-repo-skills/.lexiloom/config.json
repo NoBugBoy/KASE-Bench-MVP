@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "serverUrl": "http://localhost:8080",
+  "workspace": {
+    "id": 5,
+    "name": "CURD_RAG_评测基准"
+  },
+  "search": {
+    "excludePatterns": [
+      "**/.git/**",
+      "**/target/**",
+      "**/build/**",
+      "**/dist/**",
+      "**/node_modules/**",
+      "**/.idea/**",
+      "**/.venv/**",
+      "**/vendor/**"
+    ],
+    "useWorkspaceDefaults": true
+  }
+}
